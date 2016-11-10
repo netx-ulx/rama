@@ -1,0 +1,1 @@
+java -Dlogback.configurationFile=logback.xml -jar target/floodlight.jar -cf src/main/resources/no-replication.cbench.properties
